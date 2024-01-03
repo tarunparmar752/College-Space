@@ -72,7 +72,7 @@ It is a cloud-based service that provides a comprehensive solution for managing,
 ## *Setup Instructions*:-
 ### Clone the repository:
 
-git clone https://github.com/your-username/college-space.git <br>
+git clone https://github.com/tarunparmar752/college-space.git <br>
 cd college-space <br>
 
 ### Install dependencies:
@@ -101,6 +101,6 @@ Create a pull request.<br>
 ### *Contact* :-
 For any inquiries or feedback, please contact the project maintainers:
 
-**Tarun Parmar**
+**Tarun Parmar** <br>
 Email: tarunparmar752@gmail.com <br>
 LinkedIn Profile: https://www.linkedin.com/in/tarun-parmar-71b909225/
