@@ -19,29 +19,38 @@ Secure user authentication system to protect user data and allow personalized ac
 
 ## *Screenshots* :-
 ### Homepage :
-![Alt text](<Screenshot (134).png>)
+![Screenshot (134)](https://github.com/tarunparmar752/College-Space/assets/81980532/98b7d53f-4749-4114-8e01-cb3d4f9072ea)
+
 
 ### College Clubs : 
-![Alt text](<Screenshot (133).png>)
-![Alt text](<Screenshot (132).png>)
+![Screenshot (133)](https://github.com/tarunparmar752/College-Space/assets/81980532/9910acb6-7f20-487d-89ec-420c4c1b1036)
+![Screenshot (132)](https://github.com/tarunparmar752/College-Space/assets/81980532/e3c4fda2-0976-43e6-af82-a936a948c43b)
 
 ### Exams Section :
-![Alt text](<Screenshot (137).png>)
-![Alt text](<Screenshot (138).png>)
+![Screenshot (137)](https://github.com/tarunparmar752/College-Space/assets/81980532/7a3a993c-126a-47c0-b9e6-89faf2d461f8)
+![Screenshot (152)](https://github.com/tarunparmar752/College-Space/assets/81980532/e8c64ae9-328e-4439-aa23-27b77e4f9bbb)
+
+
+
 
 ### Connect to Other students section :
-![Alt text](<Screenshot (141).png>)
-![Alt text](<Screenshot (142).png>)
+![Screenshot (141)](https://github.com/tarunparmar752/College-Space/assets/81980532/60516943-ea3d-4796-9b8c-29d7ded4acc8)
+![Screenshot (142)](https://github.com/tarunparmar752/College-Space/assets/81980532/a2e58859-8e1a-48d6-9437-5aa52f01a4a9)
+
+
 
 ### User Profle :
-![Alt text](<Screenshot (155).png>)
+![Screenshot (155)](https://github.com/tarunparmar752/College-Space/assets/81980532/47a0bd4a-8232-4c80-a075-5706f2b585b6)
+
 
 ### Register and Login :
-![Alt text](<Screenshot (153).png>)
-![Alt text](<Screenshot (154).png>)
+![Screenshot (153)](https://github.com/tarunparmar752/College-Space/assets/81980532/48802fd3-afe4-4650-86be-adcd41428f5c)
+![Screenshot (154)](https://github.com/tarunparmar752/College-Space/assets/81980532/efa2acae-0b33-4c00-a323-060a2a7343ac)
+
 
 ### About section :
-![Alt text](<Screenshot (135).png>)
+![Screenshot (135)](https://github.com/tarunparmar752/College-Space/assets/81980532/f2013d27-0af6-4ff4-9619-23fe25b94f5a)
+
 
 
 ## *Technologies Used*
